@@ -1,0 +1,7 @@
+Currently at Frontend and backend communication setup.
+
+Routes and controllers created. 
+
+Axios installed.
+
+Pick up from axios installation onward when resuming by reviewing from calling the API from the React Frontend
